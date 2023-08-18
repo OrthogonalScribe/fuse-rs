@@ -13,7 +13,7 @@ description = "A wrapper around libfuse-sys for writing file systems using FUSE.
 libfuse-sys = { version = "0.3.0", default-features = false, features = ["fuse_35", "fuse_highlevel"] }
 libc        = "0.2.70"
 once_cell   = "1.4.0"
-nix         = "0.17.0"
+nix         = "0.26.2"
 bitflags    = "1.0"
 cfg-if      = "0.1"
 
